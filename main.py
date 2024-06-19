@@ -1,4 +1,3 @@
-# main.py
 from contact_book import ContactBook
 
 def main():
