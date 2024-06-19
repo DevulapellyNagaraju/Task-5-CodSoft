@@ -1,5 +1,3 @@
-# contact_book.py
-
 class ContactBook:
     def __init__(self):
         self.contacts = []
