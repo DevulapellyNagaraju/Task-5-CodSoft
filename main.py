@@ -5,7 +5,7 @@ def main():
 
     while True:
         # Print formatted title "Contact Book"
-        print('\033[2m' + '\033[1m' + ' ࿇=  = Contact Book =  = ࿇' + '\033[0m')
+        print('\033[2m' + '\033[1m' + ' ࿇ =  = Contact Book =  = ࿇' + '\033[0m')
         
         # Print menu options
         print('\033[95m' + '\nContact Book Menu:' + '\033[0m')
